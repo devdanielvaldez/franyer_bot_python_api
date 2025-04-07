@@ -23,7 +23,7 @@ AZURE_ENDPOINT = "https://rag-codec-v1.openai.azure.com/"
 AZURE_DEPLOYMENT = "gpt-4o-mini-codec"
 AZURE_API_VERSION = "2024-02-15-preview"
 
-SALES_DEPARTMENT = "18296531398"
+SALES_DEPARTMENT = "18497201998"
 
 # Diccionario para almacenar consultas de precios pendientes
 pending_price_queries = {}
